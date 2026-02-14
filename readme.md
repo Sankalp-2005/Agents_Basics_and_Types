@@ -1,3 +1,5 @@
+----------------This readme file is created by ai agent----------------
+
 # Google ADK Agent Examples
 
 This repository serves as a collection of diverse AI agent implementations built using Google's Agents Development Kit (ADK). It showcases various agent types, architectures, and capabilities, providing practical examples for developers looking to understand and leverage the ADK framework for building intelligent applications.
